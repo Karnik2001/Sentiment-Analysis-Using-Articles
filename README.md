@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Using-Articles
+# Sentiment Analysis Using Articles
 
 This project demonstrates how to perform sentiment analysis using Python by extracting article content from various web sources. It leverages the newspaper3k library to scrape and summarize online articles and uses TextBlob for natural language processing and sentiment polarity scoring.
 
